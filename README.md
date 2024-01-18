@@ -44,9 +44,6 @@ pip install seaborn
  Evaluates the recommended songs by counting occurrences and selecting the top recommended songs for different k values (1, 5, 10). 
  
 
-### Folders
- Contains CSV files (df.csv, dfliked.csv) for storing extracted data.
-
 
 ### Contributors
 Can Tartan
