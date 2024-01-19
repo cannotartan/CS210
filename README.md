@@ -41,7 +41,7 @@ pip install seaborn
  
 ### Data Evaluation
 
- Evaluates the recommended songs by counting occurrences and selecting the top recommended songs for different k values (1, 5, 10). 
+ Evaluates the recommended songs by counting occurrences and selecting the top recommended songs for different k values (1, 5, 10). A final data frame named "dffinal" shows the most repeated 5 songs from these data frames to choose the best applicants for recommending to the user.
  
 
 
